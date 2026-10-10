@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring Full-Stack Developer | PHP, MySQL, Python, JavaScript | Building User-Focused Web Applications
 
 
