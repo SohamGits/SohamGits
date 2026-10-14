@@ -4,7 +4,7 @@
 </h1>
 
 # About Me:
-Aspiring Full-Stack Developer | PHP, MySQL, Python, JavaScript | Building User-Focused Web Applications
+<h3>Aspiring Full-Stack Developer | PHP, MySQL, Python, JavaScript | Building User-Focused Web Applications</h3>
 
 
 ## 🌐 Socials:
