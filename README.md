@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+Soham+here!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+Soham+here!" />
 </h1>
 
 # About Me:
